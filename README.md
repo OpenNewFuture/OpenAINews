@@ -6,7 +6,7 @@
 ChatGPT技术的源头论文清单
 | 序号 |论文| 团队 | 
 | -----|------| ------| 
-| 1 | A Survey of Large Language Models<link https://github.com/RUCAIBox/LLMSurvey> | 人大 | 
+| 1 | [A Survey of Large Language Models][https://arxiv.org/abs/2303.18223]  https://github.com/RUCAIBox/LLMSurvey | 人大 | 
 
 
 ## 商业资源
