@@ -6,9 +6,9 @@
 ChatGPT技术的源头论文清单
 | 序号 |论文| 团队 | 
 | -----|------| ------| 
-| 1 | [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)  https://github.com/RUCAIBox/LLMSurvey | 人大 | 
+| 1 | [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)<br>  https://github.com/RUCAIBox/LLMSurvey | 人大 | 
 | 2 | [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774v2)  <br>  https://github.com/openai/evals | OpenAI | 
-| 3 | [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971v1.pdf)  https://github.com/AetherCortex/Llama-X#paper | Meta | 
+| 3 | [LLaMA: Open and Efficient Foundation Language Models] <br> (https://arxiv.org/pdf/2302.13971v1.pdf)  https://github.com/AetherCortex/Llama-X#paper | Meta | 
 | 4 | [Huggingface](https://huggingface.co/)   | Huggingface | 
 | 5 | [ChatGLM](https://chatglm.cn/blog)   | 智谱 | 
 
