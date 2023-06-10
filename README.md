@@ -7,7 +7,10 @@ ChatGPT技术的源头论文清单
 | 序号 |论文| 团队 | 
 | -----|------| ------| 
 | 1 | [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)  https://github.com/RUCAIBox/LLMSurvey | 人大 | 
-
+| 2 | [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774v2)  https://github.com/openai/evals | OpenAI | 
+| 3 | [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971v1.pdf)  https://github.com/AetherCortex/Llama-X#paper | Meta | 
+| 4 | [Huggingface](https://huggingface.co/)   | Huggingface | 
+| 5 | [ChatGLM](https://chatglm.cn/blog)   | 智谱 | 
 
 ## 商业资源
 OpenAI相关方向的创业和投资的公司
@@ -29,4 +32,6 @@ OpenAI相关方向的创业和投资的公司
 | 7 | OpenChatKitk | https://github.com/togethercomputer/OpenChatKit | 200亿参数语言模型，60亿参数调节模型，GPT3开源版本的GPT-NoX-20B进行微调。 |
 | 8 | OpenAssistant | https://github.com/LAION-AI/Open-Assistant | 开源聊天助手，与第三方系统交互，动态检索信息。 |
 
+开源项目合集：
+https://github.com/EwingYangs/awesome-open-gpt
 
