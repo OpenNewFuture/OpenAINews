@@ -4,6 +4,10 @@
 # 目录
 ## 学术资源
 ChatGPT技术的源头论文清单
+| 序号 |论文| 团队 | 
+| -----|------| ------| 
+| 1 | A Survey of Large Language Models<link https://github.com/RUCAIBox/LLMSurvey> | 人大 | 
+
 
 ## 商业资源
 OpenAI相关方向的创业和投资的公司
